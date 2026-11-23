@@ -1,6 +1,6 @@
 # dim-rerun
 
-A [dimOS Desktop](https://github.com/jeff-hykin/dimos-desktop) app that runs the **[Rerun](https://rerun.io) web
+A [dimOS Desktop](https://github.com/dimensionalOS/dimos-desktop-releases) app that runs the **[Rerun](https://rerun.io) web
 viewer** inside Desktop: a live stream, or a recording (`.rrd`).
 
 ```sh
